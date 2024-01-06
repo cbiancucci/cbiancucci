@@ -1,2 +1,3 @@
-<img src="https://raw.githubusercontent.com/cbiancucci/cbiancucci/master/intro.gif">
-<a href="https://open.spotify.com/user/cbiancucci?si=SdlUf9k8TIyhvc0A6e22Tw"><img src="https://raw.githubusercontent.com/cbiancucci/cbiancucci/master/follow.png" width="176" height="69"></a>
+<p><strong>Seasoned Executive Leader with 10+ years of experience</strong></p>
+<p>Passionate about technology and innovation. With a growth mindset, strong problem-solving skills, and vast experience building and managing highly performant technical teams and leaders. Always eager to learn, inspire, foster collaboration, and be part of new challenging projects.</p>
+<p>Keen on best engineering practices as well as agile processes as a tool helping teams to be effective in getting things done, and continuous delivery as a way of making those things live smoothly.<p>
